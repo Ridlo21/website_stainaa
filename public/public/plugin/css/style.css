@@ -3505,8 +3505,8 @@ textarea.form-control {
   right: 0;
   bottom: 0;
   content: '';
-  opacity: .9;
-  background: #5ea51d;
+  opacity: .6;
+  background: #030513;
   z-index: -1;
 }
 
