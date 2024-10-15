@@ -92,72 +92,52 @@ STAINAA | Beranda
 
                                 <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel"
                                     aria-labelledby="v-pills-nextgen-tab">
-                                    <form action="#" class="search-property-1">
+                                    <div class="search-property-1">
                                         <div class="row g-0">
                                             <div class="col-md d-flex">
                                                 <div class="form-group p-4 border-0">
-                                                    <label for="#">Enter Keyword</label>
-                                                    <div class="form-field">
-                                                        <div class="icon"><span class="fa fa-search"></span>
-                                                        </div>
-                                                        <input type="text" class="form-control"
-                                                            placeholder="Enter Keyword">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md d-flex">
-                                                <div class="form-group p-4">
-                                                    <label for="#">Property Type</label>
-                                                    <div class="form-field">
-                                                        <div class="select-wrap">
-                                                            <div class="icon"><span
-                                                                    class="fa fa-chevron-down"></span></div>
-                                                            <select name="" id=""
-                                                                class="form-control">
-                                                                <option value="">Residential</option>
-                                                                <option value="">Commercial</option>
-                                                                <option value="">Land</option>
-                                                                <option value="">Industrial</option>
-                                                            </select>
+                                                    <label for="#">Mahasiswa</label>
+                                                    <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
+                                                        data-aos-duration="1000">
+                                                        <div class="text">
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
+                                                                    data-count="210">0</span></span>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md d-flex">
                                                 <div class="form-group p-4">
-                                                    <label for="#">Location</label>
-                                                    <div class="form-field">
-                                                        <div class="icon"><span class="ion-ios-pin"></span>
+                                                    <label for="#">Mahasiswi</label>
+                                                    <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
+                                                        data-aos-duration="1000">
+                                                        <div class="text">
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
+                                                                    data-count="210">0</span></span>
                                                         </div>
-                                                        <input type="text" class="form-control"
-                                                            placeholder="Search Location">
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md d-flex">
                                                 <div class="form-group p-4">
-                                                    <label for="#">Price Limit</label>
-                                                    <div class="form-field">
-                                                        <div class="select-wrap">
-                                                            <div class="icon"><span
-                                                                    class="fa fa-chevron-down"></span></div>
-                                                            <select name="" id=""
-                                                                class="form-control">
-                                                                <option value="">$100</option>
-                                                                <option value="">$10,000</option>
-                                                                <option value="">$50,000</option>
-                                                                <option value="">$100,000</option>
-                                                                <option value="">$200,000</option>
-                                                                <option value="">$300,000</option>
-                                                                <option value="">$400,000</option>
-                                                                <option value="">$500,000</option>
-                                                                <option value="">$600,000</option>
-                                                                <option value="">$700,000</option>
-                                                                <option value="">$800,000</option>
-                                                                <option value="">$900,000</option>
-                                                                <option value="">$1,000,000</option>
-                                                                <option value="">$2,000,000</option>
-                                                            </select>
+                                                    <label for="#">Dosen</label>
+                                                    <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
+                                                        data-aos-duration="1000">
+                                                        <div class="text">
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
+                                                                    data-count="210">0</span></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md d-flex">
+                                                <div class="form-group p-4">
+                                                    <label for="#">Pegawai</label>
+                                                    <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
+                                                        data-aos-duration="1000">
+                                                        <div class="text">
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
+                                                                    data-count="210">0</span></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -171,7 +151,7 @@ STAINAA | Beranda
                                                 </div>
                                             </div>
                                         </div>
-                                    </form>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -186,13 +166,12 @@ STAINAA | Beranda
 <section class="ftco-section ftco-about-section">
     <div class="container-xl">
         <div class="row g-xl-5">
-            <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
+            <div class="col-md-5 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
                 data-aos-duration="1000">
-                <div class="img w-100" style="background-image: url(plugin/images/about.jpg);"></div>
+                <div class="img w-100" style="background-image: url(plugin/images/ra.png);"></div>
             </div>
-            <div class="col-md-8 heading-section" data-aos="fade-up" data-aos-delay="200"
+            <div class="col-md-6 heading-section" data-aos="fade-up" data-aos-delay="200"
                 data-aos-duration="1000">
-                <span class="subheading">About Us</span>
                 <h2 class="mb-4">Oakberry A Real Estate Company</h2>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
                     live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics,
@@ -237,10 +216,6 @@ STAINAA | Beranda
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="img img-2" style="background-image: url(plugin/images/about-1.jpg);"
-                    data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-
                 </div>
             </div>
         </div>
