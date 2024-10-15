@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Oakberry - Free Bootstrap 5 Template by Colorlib</title>
+    <title>@yield('title')</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -62,9 +62,9 @@
 
     <nav class="navbar navbar-expand-lg ftco-navbar-light">
         <div class="container-xl">
-            <a class="navbar-brand d-flex align-items-center" href="index.html">
+            <a class="navbar-brand d-flex align-items-center" href="{{ url('/') }}">
                 <img src="plugin/images/stainaa.png" alt="Logo" class="img-fluid" style="max-height: 50px;">
-                <span class="ml-2 d-inline-block">Oakberry</span>
+                <span class="ml-2 d-inline-block">STAINAA</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,14 +72,14 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav m-auto mb-2 mb-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Beranda</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="properties.html">Properties</a></li>
-                    <li class="nav-item"><a class="nav-link" href="agents.html">Agents</a></li>
-                    <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Beranda</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/tentang') }}">Tentang</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/pendidikan') }}">Pendidikan</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/kemahasiswaan') }}">Kemahasiswaan</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/artikel') }}">Artikel</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/akreditasi') }}">Akreditasi</a></li>
                 </ul>
-                <p class="mb-0"><a href="#" class="btn btn-primary rounded">Submit A Property</a></p>
+                <p class="mb-0"><a href="https://pmb.stainaa.ac.id/" target="_blank" class="btn btn-primary rounded">Pendaftaran</a></p>
             </div>
         </div>
     </nav>

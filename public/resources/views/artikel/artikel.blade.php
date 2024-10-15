@@ -1,7 +1,7 @@
 @extends('template')
 
 @section('title')
-Tentang
+Artikel
 @endsection
 
 @section('konten')

@@ -1,7 +1,7 @@
 @extends('template')
 
 @section('title')
-Tentang
+Akreditasi
 @endsection
 
 @section('konten')

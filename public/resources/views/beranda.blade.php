@@ -1,5 +1,9 @@
 @extends('template')
 
+@section('title')
+STAINAA | Beranda
+@endsection
+
 @section('konten')
 <section class="slider-hero">
     <div class="overlay"></div>
