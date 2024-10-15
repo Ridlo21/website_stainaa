@@ -28,20 +28,20 @@
             <div class="row d-flex align-items-start">
 
                 <div class="col-md topper d-flex mb-md-0 align-items-xl-center">
-                    <div class="icon d-flex justify-content-center align-items-center"><span class="fa fa-map"></span>
+                    <div class="icon d-flex justify-content-center align-items-center"><span class="fa fa-brands fa-whatsapp"></span>
                     </div>
                     <div class="text pl-3 pl-md-3">
-                        <p class="con"><span>Free Call</span> <span>+1 234 456 78910</span></p>
-                        <p class="con">Call Us Now 24/7 Customer Support</p>
+                        <p class="con"> <span>+62 813 9493 9265</span></p>
+                        <p class="con">Hubungi Kami Sekarang</p>
                     </div>
                 </div>
 
                 <div class="col-md topper d-flex mb-md-0 align-items-xl-center">
                     <div class="icon d-flex justify-content-center align-items-center"><span
-                            class="fa fa-paper-plane"></span>
+                            class="fa fa-map"></span>
                     </div>
                     <div class="text pl-3 pl-md-3">
-                        <p class="hr"><span>Our Location</span></p>
+                        <p class="hr"><span>Lokasi Kami</span></p>
                         <p class="con">Suite 721 New York NY 10016</p>
                     </div>
                 </div>
