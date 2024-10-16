@@ -100,7 +100,7 @@ STAINAA | Beranda
                                                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
                                                         data-aos-duration="1000">
                                                         <div class="text">
-                                                            <span class="d-block number gradient-text"><span id="count2" class="counter h4" data-count="210">0</span></span>
+                                                            <span class="d-block number gradient-text"><b><span id="count2" class="counter h4 fw-bold" data-count="210">0</span></b></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -188,7 +188,7 @@ STAINAA | Beranda
                         <a href="#" class="services">
                             <div class="icon"><span class="flaticon-architect"></span></div>
                             <div class="text">
-                                <h2>Land</h2>
+                                <h2>INVOKASI</h2>
                             </div>
                         </a>
                     </div>
@@ -197,7 +197,7 @@ STAINAA | Beranda
                         <a href="#" class="services">
                             <div class="icon"><span class="flaticon-house"></span></div>
                             <div class="text">
-                                <h2>Residential</h2>
+                                <h2>NGAJI</h2>
                             </div>
                         </a>
                     </div>
@@ -206,7 +206,7 @@ STAINAA | Beranda
                         <a href="#" class="services">
                             <div class="icon"><span class="flaticon-apartment"></span></div>
                             <div class="text">
-                                <h2>Commercial</h2>
+                                <h2>AKREDITASI</h2>
                             </div>
                         </a>
                     </div>
@@ -215,7 +215,7 @@ STAINAA | Beranda
                         <a href="#" class="services">
                             <div class="icon"><span class="flaticon-factory"></span></div>
                             <div class="text">
-                                <h2>Industrial</h2>
+                                <h2>KAMPUS MERDEKA</h2>
                             </div>
                         </a>
                     </div>
@@ -226,7 +226,7 @@ STAINAA | Beranda
 </section>
 
 <!-- Berita -->
-<section class="ftco-section bg-light">
+<section class="ftco-section ftco-no-pb bg-light">
     <div class="container-xl">
         <div class="row justify-content-center mb-5">
             <div class="col-md-7 heading-section text-center" data-aos="fade-up" data-aos-duration="1000">
@@ -239,11 +239,10 @@ STAINAA | Beranda
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="100">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
-                        style="background-image: url('plugin/images/image_1.jpg');">
+                        style="background-image: url('plugin/images/b1.jpg');">
                     </a>
                     <div class="text">
-                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span><a href="#">3
-                                Comments</a></p>
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
                         <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a></h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
@@ -254,11 +253,10 @@ STAINAA | Beranda
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="200">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
-                        style="background-image: url('plugin/images/image_2.jpg');">
+                        style="background-image: url('plugin/images/b2.jpg');">
                     </a>
                     <div class="text">
-                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span><a href="#">3
-                                Comments</a></p>
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
                         <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a></h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
@@ -269,11 +267,10 @@ STAINAA | Beranda
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
-                        style="background-image: url('plugin/images/image_3.jpg');">
+                        style="background-image: url('plugin/images/b3.jpg');">
                     </a>
                     <div class="text">
-                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span><a href="#">3
-                                Comments</a></p>
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
                         <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a mb-3>
                         </h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
@@ -285,36 +282,15 @@ STAINAA | Beranda
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
-                        style="background-image: url('plugin/images/image_4.jpg');">
+                        style="background-image: url('plugin/images/b4.jpg');">
                     </a>
                     <div class="text">
-                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span><a href="#">3
-                                Comments</a></p>
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
                         <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a mb-3>
                         </h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Profil -->
-<section class="img vid-section" style="background-image: url(plugin/images/bg_4.jpg);">
-    <div class="overlay"></div>
-    <div class="container-xl">
-        <div class="row justify-content-center">
-            <div class="col-md-6 vid-height d-flex align-items-center justify-content-center text-center">
-                <div class="video-wrap" data-aos="fade-up">
-                    <h3>Modern House Video</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                        there live the blind texts.</p>
-                    <a href="https://vimeo.com/115041822"
-                        class="video-icon glightbox d-flex align-items-center justify-content-center">
-                        <span class="ion-ios-play"></span>
-                    </a>
                 </div>
             </div>
         </div>
@@ -326,8 +302,8 @@ STAINAA | Beranda
     <div class="container-xl">
         <div class="row justify-content-center pb-4">
             <div class="col-md-7 text-center heading-section" data-aos="fade-up" data-aos-duration="1000">
-                <span class="subheading">Testimonial</span>
-                <h2 class="mb-3">Clients We Help</h2>
+                <!-- <span class="subheading">Testimonial</span> -->
+                <h2 class="mb-3">Pengumuman</h2>
             </div>
         </div>
         <div class="row">
@@ -338,16 +314,9 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
+                                <p class="name">Roger Scott</p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img"
-                                        style="background-image: url(plugin/images/person_1.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -356,16 +325,9 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
+                                <p class="name">Roger Scott</p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img"
-                                        style="background-image: url(plugin/images/person_2.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -374,16 +336,9 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
+                                <p class="name">Roger Scott</p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img"
-                                        style="background-image: url(plugin/images/person_3.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -392,16 +347,9 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
+                                <p class="name">Roger Scott</p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img"
-                                        style="background-image: url(plugin/images/person_1.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -410,16 +358,9 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
+                                <p class="name">Roger Scott</p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img"
-                                        style="background-image: url(plugin/images/person_2.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -436,20 +377,19 @@ STAINAA | Beranda
         <div class="row justify-content-center pb-5">
             <div class="col-md-10 heading-section heading-section-white" data-aos="fade-up"
                 data-aos-duration="1000">
-                <span class="subheading">Meets Our Agents</span>
-                <h2 class="mb-4">Our Agents</h2>
+                <!-- <span class="subheading">Meets Our Agents</span> -->
+                <h2 class="mb-4">Pimpinan Kami</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-md-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                 <div class="agent">
                     <div class="img">
-                        <img src="plugin/images/team-1.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="plugin/images/ra.png" class="img-fluid" alt="Colorlib Template">
                     </div>
                     <div class="desc">
-                        <p class="h-info"><span class="position">Listing</span> <span class="details">10
-                                Properties</span></p>
-                        <h3><a href="properties.html">Mike Bochs</a></h3>
+                        <p class="h-info"><span class="position">Ketua</span></p>
+                        <h3><a href="properties.html">K. Indi Aunullah, SS. S.Fil.</a></h3>
                         <ul class="ftco-social">
                             <li class="ftco-animate"><a href="#"
                                     class="d-flex align-items-center justify-content-center"><span
@@ -470,12 +410,11 @@ STAINAA | Beranda
             <div class="col-md-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                 <div class="agent">
                     <div class="img">
-                        <img src="plugin/images/team-2.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="plugin/images/pak_imam.jpg" class="img-fluid" alt="Colorlib Template">
                     </div>
                     <div class="desc">
-                        <p class="h-info"><span class="position">Listing</span> <span class="details">10
-                                Properties</span></p>
-                        <h3><a href="properties.html">Mike Bochs</a></h3>
+                        <p class="h-info"><span class="position">Pembantu Ketua I</span></p>
+                        <h3><a href="properties.html">Drs. H. Imam Bustomi, M.Pd.</a></h3>
                         <ul class="ftco-social">
                             <li class="ftco-animate"><a href="#"
                                     class="d-flex align-items-center justify-content-center"><span
@@ -496,12 +435,11 @@ STAINAA | Beranda
             <div class="col-md-3" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
                 <div class="agent">
                     <div class="img">
-                        <img src="plugin/images/team-3.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="plugin/images/ust.jpg" class="img-fluid" alt="Colorlib Template">
                     </div>
                     <div class="desc">
-                        <p class="h-info"><span class="position">Listing</span> <span class="details">10
-                                Properties</span></p>
-                        <h3><a href="properties.html">Jessica Moore</a></h3>
+                        <p class="h-info"><span class="position">Pembantu Ketua II</span></p>
+                        <h3><a href="properties.html">Kholid Al-Madani, S.Kom, M.Pd.</a></h3>
                         <ul class="ftco-social">
                             <li class="ftco-animate"><a href="#"
                                     class="d-flex align-items-center justify-content-center"><span
@@ -522,12 +460,11 @@ STAINAA | Beranda
             <div class="col-md-3" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
                 <div class="agent">
                     <div class="img">
-                        <img src="plugin/images/team-4.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="plugin/images/pak_s.jpg" class="img-fluid" alt="Colorlib Template">
                     </div>
                     <div class="desc">
-                        <p class="h-info"><span class="position">Listing</span> <span class="details">10
-                                Properties</span></p>
-                        <h3><a href="properties.html">Sarah Geronimo</a></h3>
+                        <p class="h-info"><span class="position">Pembantu Ketua III</span></p>
+                        <h3><a href="properties.html">Suyono, S.Sos.I; M.Pd.</a></h3>
                         <ul class="ftco-social">
                             <li class="ftco-animate"><a href="#"
                                     class="d-flex align-items-center justify-content-center"><span
