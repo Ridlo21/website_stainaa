@@ -19,6 +19,9 @@
     <link rel="stylesheet" href="plugin/css/glightbox.min.css">
     <link rel="stylesheet" href="plugin/css/aos.css">
     <link rel="stylesheet" href="plugin/css/style.css">
+
+    <script src="plugin/js/bootstrap.bundle.min.js"></script>
+    <script src="plugin/jquery/jquery-3.7.1.min.js"></script>
 </head>
 
 <body>
@@ -180,9 +183,6 @@
             </div>
         </div>
     </footer>
-
-
-    <script src="plugin/js/bootstrap.bundle.min.js"></script>
     <script src="plugin/js/tiny-slider.js"></script>
     <script src="plugin/js/glightbox.min.js"></script>
     <script src="plugin/js/aos.js"></script>
@@ -193,6 +193,11 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
+        integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
+        data-cf-beacon='{"rayId":"8c62f2e99ca33e24","version":"2024.8.0","serverTiming":{"name":{"cfExtPri":true,"cfL4":true}},"token":"cd0b4b3a733644fc843ef0b185f98241","b":1}'
+        crossorigin="anonymous"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -203,11 +208,6 @@
 
         gtag('config', 'UA-23581568-13');
     </script>
-
-    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
-        integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
-        data-cf-beacon='{"rayId":"8c62f2e99ca33e24","version":"2024.8.0","serverTiming":{"name":{"cfExtPri":true,"cfL4":true}},"token":"cd0b4b3a733644fc843ef0b185f98241","b":1}'
-        crossorigin="anonymous"></script>
 </body>
 
 <!-- Mirrored from preview.colorlib.com/theme/oakberry/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Sep 2024 15:46:54 GMT -->
