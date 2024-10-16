@@ -34,7 +34,7 @@ Tentang
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
                                 <p class="mb-4 msg ">VISI, MISI, MOTTO</p>
-                                <div class="d-flex align-items-center">
+                                <div class="d-flex align-items-center visi">
                                     <div class="user-img shadow-lg" style="background-image: url(plugin/images/v.png)"></div>
                                     <div class="pl-3 tx">
                                         <p class="name">VISION</p>
@@ -65,7 +65,7 @@ Tentang
                             <div class="text">
                                 <p class="mb-4 msg">PROFIL PIMPINAN</p>
                                 <div class="d-flex align-items-center">
-                                    <div class="user-img shadow-lg" style="background-image: url(plugin/images/h.png)"></div>
+                                    <div class="user-img" style="background-image: url(plugin/images/h.png)"></div>
                                     <div class="pl-3 tx">
                                         <p class="name">LEADERS</p>
                                         <span class="position">of Stainaa</span>
@@ -80,4 +80,9 @@ Tentang
     </div>
 </section>
 
+<script>
+    $(function () {
+        alert("k")
+    })
+</script>
 @endsection
