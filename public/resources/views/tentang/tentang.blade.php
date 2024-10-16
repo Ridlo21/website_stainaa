@@ -29,7 +29,7 @@ Tentang
         <div class="row">
             <div class="col-md-12" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                 <div class="carousel-testimony">
-                    <div class="item">
+                    <div class="item vision">
                         <div class="testimony-wrap">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
@@ -44,7 +44,7 @@ Tentang
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item history">
                         <div class="testimony-wrap">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
@@ -59,7 +59,7 @@ Tentang
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item leaders">
                         <div class="testimony-wrap">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
@@ -82,7 +82,15 @@ Tentang
 
 <script>
     $(function () {
-        alert("k")
+        $(".vision").on('click', function () {
+            window.location.href="{{url('tetangVisiMisi')}}";
+        })
+        $(".history").on('click', function () {
+            window.location.href="{{url('tetangSejarah')}}";
+        })
+        $(".leaders").on('click', function () {
+            window.location.href="{{url('tetangLeaders')}}";
+        })
     })
 </script>
 @endsection

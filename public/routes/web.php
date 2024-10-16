@@ -25,3 +25,10 @@ Route::get('/artikel', function () {
 Route::get('/akreditasi', function () {
     return view('akreditasi.akreditasi');
 });
+
+Route::get('/tetangVisiMisi', function () {
+    return view('tentang.visimisi');
+});
+Route::get('/tetangLeaders', function () {
+    return view('tentang.pimpinan');
+});
