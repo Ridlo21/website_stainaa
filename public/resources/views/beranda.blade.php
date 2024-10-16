@@ -100,8 +100,7 @@ STAINAA | Beranda
                                                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
                                                         data-aos-duration="1000">
                                                         <div class="text">
-                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                                                    data-count="210">0</span></span>
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter h4" data-count="210">0</span></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -112,8 +111,7 @@ STAINAA | Beranda
                                                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
                                                         data-aos-duration="1000">
                                                         <div class="text">
-                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                                                    data-count="210">0</span></span>
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter h4" data-count="210">0</span></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -124,8 +122,7 @@ STAINAA | Beranda
                                                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
                                                         data-aos-duration="1000">
                                                         <div class="text">
-                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                                                    data-count="210">0</span></span>
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter h4" data-count="210">0</span></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -136,8 +133,7 @@ STAINAA | Beranda
                                                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
                                                         data-aos-duration="1000">
                                                         <div class="text">
-                                                            <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                                                    data-count="210">0</span></span>
+                                                            <span class="d-block number gradient-text"><span id="count2" class="counter h4" data-count="210">0</span></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -165,58 +161,17 @@ STAINAA | Beranda
 <!-- tentang -->
 <section class="ftco-section ftco-about-section">
     <div class="container-xl">
-        <div class="row g-xl-5">
+        <div class="row g-xl-5" style="height: 500px !important;">
             <div class="col-md-5 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
                 data-aos-duration="1000">
-                <div class="img w-100" style="background-image: url(plugin/images/ra.png);"></div>
+                <div class="img w-100" style="background-image: url(plugin/images/ra.png); background-position: center 10px;"></div>
             </div>
             <div class="col-md-6 heading-section" data-aos="fade-up" data-aos-delay="200"
                 data-aos-duration="1000">
-                <h2 class="mb-4">Oakberry A Real Estate Company</h2>
+                <h2 class="mb-4">Tentang STAINAA</h2>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
                     live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics,
                     a large language ocean.</p>
-                <div class="row py-5">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count1" class="counter"
-                                        data-count="50">0</span></span>
-                                <p>Years of Experienced</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100"
-                            data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                        data-count="210">0</span>K+</span>
-                                <p>Total Properties</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-delay="200"
-                            data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                        data-count="450">0</span></span>
-                                <p>Qualified Realtors</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-delay="300"
-                            data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                        data-count="100">0</span></span>
-                                <p>Total Branches</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
@@ -275,8 +230,8 @@ STAINAA | Beranda
     <div class="container-xl">
         <div class="row justify-content-center mb-5">
             <div class="col-md-7 heading-section text-center" data-aos="fade-up" data-aos-duration="1000">
-                <span class="subheading">Our Blog</span>
-                <h2>Recent Blog</h2>
+                <!-- <span class="subheading">Our Blog</span> -->
+                <h2>Rilis Berita</h2>
             </div>
         </div>
         <div class="row">
