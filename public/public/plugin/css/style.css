@@ -3874,7 +3874,7 @@ textarea.form-control {
   width: 80px;
   height: 80px;
   position: relative;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 
 .testimony-wrap .name {
