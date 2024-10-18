@@ -32,3 +32,7 @@ Route::get('/tetangVisiMisi', function () {
 Route::get('/tetangLeaders', function () {
     return view('tentang.pimpinan');
 });
+
+Route::get('/berita_detail', function () {
+    return view('berita.beritadetail');
+});

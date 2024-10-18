@@ -243,7 +243,7 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a></h3>
+                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
                     </div>
@@ -257,7 +257,7 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a></h3>
+                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
                     </div>
@@ -271,7 +271,7 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a mb-3>
+                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a mb-3>
                         </h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
@@ -286,7 +286,7 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="#">New Home Sales Picked Up in December</a mb-3>
+                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a mb-3>
                         </h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
@@ -294,6 +294,11 @@ STAINAA | Beranda
                 </div>
             </div>
         </div>
+        <!-- <div class="row justify-content-center">
+            <div class="text text-center">
+                <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}" style="color: #333 !important;">Daftar Berita</a></h3>
+            </div>
+        </div> -->
     </div>
 </section>
 
@@ -371,13 +376,13 @@ STAINAA | Beranda
 </section>
 
 <!-- Dewan Dosen -->
-<section class="ftco-section ftco-agent ftco-no-pb">
+<!-- <section class="ftco-section ftco-agent ftco-no-pb">
     <div class="overlay"></div>
     <div class="container-xl">
         <div class="row justify-content-center pb-5">
             <div class="col-md-10 heading-section heading-section-white" data-aos="fade-up"
                 data-aos-duration="1000">
-                <!-- <span class="subheading">Meets Our Agents</span> -->
+                <span class="subheading">Meets Our Agents</span>
                 <h2 class="mb-4">Pimpinan Kami</h2>
             </div>
         </div>
@@ -484,5 +489,5 @@ STAINAA | Beranda
             </div>
         </div>
     </div>
-</section>
+</section> -->
 @endsection
