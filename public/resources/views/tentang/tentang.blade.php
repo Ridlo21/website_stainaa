@@ -29,7 +29,7 @@ Tentang
         <div class="row">
             <div class="col-md-12" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                 <div class="carousel-testimony">
-                    <div class="item vision">
+                    <div class="item vision" style="cursor:pointer;">
                         <div class="testimony-wrap">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
@@ -44,7 +44,7 @@ Tentang
                             </div>
                         </div>
                     </div>
-                    <div class="item history">
+                    <div class="item history" style="cursor:pointer;">
                         <div class="testimony-wrap">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
@@ -59,7 +59,7 @@ Tentang
                             </div>
                         </div>
                     </div>
-                    <div class="item leaders">
+                    <div class="item leaders" style="cursor:pointer;">
                         <div class="testimony-wrap">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
                             <div class="text">
@@ -83,13 +83,13 @@ Tentang
 <script>
     $(function () {
         $(".vision").on('click', function () {
-            window.location.href="{{url('tetangVisiMisi')}}";
+            window.location.href="{{url('tentangVisiMisi')}}";
         })
         $(".history").on('click', function () {
-            window.location.href="{{url('tetangSejarah')}}";
+            window.location.href="{{url('tentangSejarah')}}";
         })
         $(".leaders").on('click', function () {
-            window.location.href="{{url('tetangLeaders')}}";
+            window.location.href="{{url('tentangLeaders')}}";
         })
     })
 </script>

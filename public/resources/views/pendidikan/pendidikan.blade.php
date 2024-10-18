@@ -44,13 +44,17 @@ Pendidikan
                         <div class="img img-2" style="background-image: url(plugin/images/t.jpg);" data-aos="fade-up"
                             data-aos-delay="400" data-aos-duration="1000">
                         </div>
-                        <h4 class="msg fw-bold mt-2">Hukum Ekonimi Syariah</h4>
+                        <a href="#" class="hes">
+                            <h4 class="msg fw-bold mt-2">Hukum Ekonimi Syariah</h4>
+                        </a>
                     </div>
                     <div class="col-md-6">
                         <div class="img img-2" style="background-image: url(plugin/images/t.jpg);" data-aos="fade-up"
                             data-aos-delay="400" data-aos-duration="1000">
                         </div>
-                        <h4 class="msg fw-bold mt-2">Pendidikan Agama Islam</h4>
+                        <a href="#" class="pai">
+                            <h4 class="msg fw-bold mt-2">Pendidikan Agama Islam</h4>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -59,6 +63,15 @@ Pendidikan
 </section>
 
 
-
+<script>
+    $(function () {
+        $(".hes").on('click', function () {
+            window.location.href="{{url('pendidikanHens')}}";
+        })
+        $(".pai").on('click', function () {
+            window.location.href="{{url('pendidikanPai')}}";
+        })
+    })
+</script>
 
 @endsection

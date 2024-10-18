@@ -26,9 +26,18 @@ Route::get('/akreditasi', function () {
     return view('akreditasi.akreditasi');
 });
 
-Route::get('/tetangVisiMisi', function () {
+Route::get('/tentangSejarah', function () {
+    return view('tentang.sejarah');
+});
+Route::get('/tentangVisiMisi', function () {
     return view('tentang.visimisi');
 });
-Route::get('/tetangLeaders', function () {
+Route::get('/tentangLeaders', function () {
     return view('tentang.pimpinan');
+});
+Route::get('/pendidikanHens', function () {
+    return view('pendidikan.hes');
+});
+Route::get('/pendidikanPai', function () {
+    return view('pendidikan.pai');
 });
