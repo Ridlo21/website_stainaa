@@ -14,10 +14,10 @@ Berita
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="100">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b1.jpg');">
                     </a>
                     <div class="text">
@@ -28,10 +28,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="200">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b2.jpg');">
                     </a>
                     <div class="text">
@@ -42,10 +42,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b3.jpg');">
                     </a>
                     <div class="text">
@@ -57,10 +57,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b4.jpg');">
                     </a>
                     <div class="text">
@@ -72,10 +72,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="100">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b1.jpg');">
                     </a>
                     <div class="text">
@@ -86,10 +86,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="200">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b2.jpg');">
                     </a>
                     <div class="text">
@@ -100,10 +100,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b3.jpg');">
                     </a>
                     <div class="text">
@@ -115,10 +115,10 @@ Berita
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
-                    <a href="blog-single.html" class="block-20 img d-flex align-items-end"
+                    <a href="{{ url('/berita_detail') }}" class="block-20 img d-flex align-items-end"
                         style="background-image: url('plugin/images/b4.jpg');">
                     </a>
                     <div class="text">

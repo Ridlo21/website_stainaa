@@ -6,113 +6,16 @@ Artikel
 
 @section('konten')
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('plugin/images/bg_4.jpg');">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row no-gutters slider-text align-items-center justify-content-center">
-            <div class="col-md-9 pt-5 text-center">
-                <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i
-                                class="fa fa-chevron-right"></i></a></span> <span>About us <i class="fa fa-chevron-right"></i></span>
-                </p>
-                <h1 class="mb-0 bread">About Us</h1>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="ftco-section ftco-about-section">
-    <div class="container-xl">
-        <div class="row g-xl-5">
-            <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
-                data-aos-duration="1000">
-                <div class="img w-100" style="background-image: url(plugin/images/about.jpg);"></div>
-            </div>
-            <div class="col-md-8 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                <span class="subheading">About Us</span>
-                <h2 class="mb-4">Oakberry A Real Estate Company</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-                    blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language
-                    ocean.</p>
-                <div class="row py-5">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count1" class="counter"
-                                        data-count="50">0</span></span>
-                                <p>Years of Experienced</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                        data-count="210">0</span>K+</span>
-                                <p>Total Properties</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                        data-count="450">0</span></span>
-                                <p>Qualified Realtors</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="counter-wrap" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                            <div class="text">
-                                <span class="d-block number gradient-text"><span id="count2" class="counter"
-                                        data-count="100">0</span></span>
-                                <p>Total Branches</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="img img-2" style="background-image: url(plugin/images/about-1.jpg);" data-aos="fade-up"
-                    data-aos-delay="400" data-aos-duration="1000">
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="img vid-section" style="background-image: url(plugin/images/bg_4.jpg);">
-    <div class="overlay"></div>
-    <div class="container-xl">
-        <div class="row justify-content-center">
-            <div class="col-md-6 vid-height d-flex align-items-center justify-content-center text-center">
-                <div class="video-wrap" data-aos="fade-up">
-                    <h3>Modern House Video</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-                        blind texts.</p>
-                    <a href="#" class="video-icon d-flex align-items-center justify-content-center">
-                        <span class="ion-ios-play"></span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="ftco-intro ftco-no-pt ftco-no-pb img" style="background-image: url(plugin/images/bg_4.jpg);">
+<section class="ftco-intro ftco-no-pt ftco-no-pb img" style="background-image: url(plugin/images/bg_3.jpg);">
     <div class="overlay"></div>
     <div class="container-xl py-5">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xl-8">
                 <div class="row">
                     <div class="col-md-8 d-flex align-items-center">
-                        <div>
-                            <h1 class="mb-0">Find Best Place For Leaving</h1>
-                            <p>Find Best Place For Leaving</p>
+                        <div class="mt-5">
+                            <h1 class="mb-4"></h1>
                         </div>
-                    </div>
-                    <div class="col-md-4 d-flex align-items-center">
-                        <p class="mb-0"><a href="#" class="btn btn-black py-3 px-4">Get in touch</a></p>
                     </div>
                 </div>
             </div>
@@ -120,98 +23,144 @@ Artikel
     </div>
 </section>
 
-
-<section class="ftco-section testimony-section bg-light">
+<section class="ftco-section ftco-no-pt mt-5 bg-light">
     <div class="container-xl">
-        <div class="row justify-content-center pb-4">
-            <div class="col-md-7 text-center heading-section" data-aos="fade-up" data-aos-duration="1000">
-                <span class="subheading">Testimonial</span>
-                <h2 class="mb-3">Clients We Help</h2>
+        <div class="row mb-3">
+            <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
+                <h3 style="margin-bottom: -5px; font-weight: 700;">Semua Artikel</h3>
+                <hr style="margin-top: 5px; border: 1.5px solid;">
             </div>
         </div>
         <div class="row">
-            <div class="col-md-12" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-                <div class="carousel-testimony">
-                    <div class="item">
-                        <div class="testimony-wrap">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                            <div class="text">
-                                <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries Vokalia and
-                                    Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(plugin/images/person_1.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="100">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b1.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a></h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
                     </div>
-                    <div class="item">
-                        <div class="testimony-wrap">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                            <div class="text">
-                                <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries Vokalia and
-                                    Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(plugin/images/person_2.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="200">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b2.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a></h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
                     </div>
-                    <div class="item">
-                        <div class="testimony-wrap">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                            <div class="text">
-                                <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries Vokalia and
-                                    Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(plugin/images/person_3.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="300">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b3.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a mb-3>
+                        </h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
                     </div>
-                    <div class="item">
-                        <div class="testimony-wrap">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                            <div class="text">
-                                <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries Vokalia and
-                                    Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(plugin/images/person_1.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="300">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b4.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a mb-3>
+                        </h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
                     </div>
-                    <div class="item">
-                        <div class="testimony-wrap">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                            <div class="text">
-                                <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries Vokalia and
-                                    Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(plugin/images/person_2.jpg)"></div>
-                                    <div class="pl-3 tx">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="100">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b1.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a></h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
                     </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="200">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b2.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a></h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="300">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b3.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a mb-3>
+                        </h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex">
+                <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
+                    data-aos-delay="300">
+                    <a href="{{ url('/artikel_detail') }}" class="block-20 img d-flex align-items-end"
+                        style="background-image: url('plugin/images/b4.jpg');">
+                    </a>
+                    <div class="text">
+                        <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
+                        <h3 class="heading mb-3"><a href="{{ url('/artikel_detail') }}">New Home Sales Picked Up in December</a mb-3>
+                        </h3>
+                        <p>A small river named Duden flows by their place and supplies it with the necessary
+                            regelialia.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-sm-12 text-center">
+                <div class="block-27">
+                    <ul>
+                        <li><a href="#">&lt;</a></li>
+                        <li class="active"><span>1</span></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#">&gt;</a></li>
+                    </ul>
                 </div>
             </div>
         </div>

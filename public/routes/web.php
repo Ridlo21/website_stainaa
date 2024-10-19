@@ -21,6 +21,9 @@ Route::get('/kemahasiswaan', function () {
 Route::get('/artikel', function () {
     return view('artikel.artikel');
 });
+Route::get('/artikel_detail', function () {
+    return view('artikel.artikeldetail');
+});
 
 Route::get('/akreditasi', function () {
     return view('akreditasi.akreditasi');
