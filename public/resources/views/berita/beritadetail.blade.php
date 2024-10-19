@@ -40,37 +40,37 @@ Berita
                 <div class="row" style="background-color: #f2f2f2;">
                     <div class="col-sm-12 mt-2">
                         <div class="heading-section border-bottom">
-                            <h5 style="margin-bottom: 5px;">Berita Lainnya | <a href="#">Daftar Berita</a></h5>
+                            <h5 style="margin-bottom: 5px;">Berita Lainnya | <a href="{{ url('/list_berita') }}">Berita Lainnya</a></h5>
                             <hr style="border: 1px solid #a6a6a6; margin-top: 5px;">
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="#">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="#">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="#">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="#">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="#">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>

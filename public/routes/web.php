@@ -36,6 +36,10 @@ Route::get('/tentangLeaders', function () {
     return view('tentang.pimpinan');
 });
 
+Route::get('/list_berita', function () {
+    return view('berita.listberita');
+});
+
 Route::get('/berita_detail', function () {
     return view('berita.beritadetail');
 });
