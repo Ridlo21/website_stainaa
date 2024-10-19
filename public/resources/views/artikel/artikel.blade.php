@@ -23,12 +23,12 @@ Artikel
     </div>
 </section>
 
-<section class="ftco-section ftco-no-pt mt-5 bg-light">
+<section class="ftco-section ftco-no-pt bg-light" style="padding-top: 20px !important;">
     <div class="container-xl">
         <div class="row mb-3">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
                 <h3 style="margin-bottom: -5px; font-weight: 700;">Semua Artikel</h3>
-                <hr style="margin-top: 5px; border: 1.5px solid;">
+                <hr style="margin-top: 5px; border: 1.5px solid blue;">
             </div>
         </div>
         <div class="row">
