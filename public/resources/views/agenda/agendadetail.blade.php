@@ -1,7 +1,7 @@
 @extends('template')
 
 @section('title')
-Berita
+Agenda
 @endsection
 
 @section('konten')
@@ -27,50 +27,43 @@ Berita
                     <p>
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis et repellat facere accusamus maxime aut, mollitia exercitationem itaque quisquam aperiam eaque non ipsam praesentium obcaecati vel eligendi ipsum. Sapiente quasi voluptatum optio facilis perferendis itaque maiores, nulla tenetur eaque accusantium nam officia in est quisquam corporis magni repellat voluptate quod aspernatur animi dolore neque. Sed delectus enim voluptas. Sunt, atque?
                     </p>
-                    <p>Pewarta : Fulan</p>
-                    <p>
-                        <span>Editor : John</span>
-                    </p>
-                    <p>
-                        <span>Foto : John</span>
-                    </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12">
                 <div class="row" style="background-color: #f2f2f2;">
                     <div class="col-sm-12 mt-2">
                         <div class="heading-section border-bottom">
-                            <h5 style="margin-bottom: 5px;">Berita Lainnya | <a href="{{ url('/list_berita') }}">Daftar Berita</a></h5>
+                            <h5 style="margin-bottom: 5px;">Agenda Lainnya | <a href="{{ url('/list_agenda') }}">Daftar Agenda</a></h5>
                             <hr style="border: 1px solid #a6a6a6; margin-top: 5px;">
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>
                     <div class="col-sm-12 mt-1">
                         <div class="text">
-                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h6>
+                            <h6 class="heading" style="margin-bottom: -2px;"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h6>
                             <p class="meta"><span>Kamis</span> <span>Dec. 01, 2020</span></p>
                         </div>
                     </div>

@@ -39,7 +39,6 @@ Route::get('/tentangLeaders', function () {
 Route::get('/list_berita', function () {
     return view('berita.listberita');
 });
-
 Route::get('/berita_detail', function () {
     return view('berita.beritadetail');
 });
@@ -49,4 +48,20 @@ Route::get('/pendidikanHens', function () {
 });
 Route::get('/pendidikanPai', function () {
     return view('pendidikan.pai');
+});
+
+Route::get('/list_pengumuman', function () {
+    return view('pengumuman.listpengumuman');
+});
+
+Route::get('/pengumuman_detail', function () {
+    return view('pengumuman.pengumumandetail');
+});
+
+Route::get('/list_agenda', function () {
+    return view('agenda.listagenda');
+});
+
+Route::get('/agenda_detail', function () {
+    return view('agenda.agendadetail');
 });

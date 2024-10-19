@@ -236,7 +236,7 @@ STAINAA | Beranda
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="100">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -250,7 +250,7 @@ STAINAA | Beranda
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="200">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -264,7 +264,7 @@ STAINAA | Beranda
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -279,7 +279,7 @@ STAINAA | Beranda
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -304,7 +304,7 @@ STAINAA | Beranda
         <div class="row mb-3">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
                 <h3 style="margin-bottom: -5px; font-weight: 700;">Pengumuman</h3>
-                <p style="margin-bottom: 5px;"><a href="#">Pengumuman Lainnya</a></p>
+                <p style="margin-bottom: 5px;"><a href="{{ url('/list_pengumuman') }}">Pengumuman Lainnya</a></p>
                 <hr style="margin-top: 5px; border: 1.5px solid;">
             </div>
         </div>
@@ -316,7 +316,7 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
-                                <p class="name">Roger Scott</p>
+                                <p class="name"><a href="{{ url('/pengumuman_detail') }}">Roger Scott</a></p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
                             </div>
@@ -327,7 +327,7 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
-                                <p class="name">Roger Scott</p>
+                                <p class="name"><a href="{{ url('/pengumuman_detail') }}">Roger Scott</a></p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
                             </div>
@@ -338,7 +338,7 @@ STAINAA | Beranda
                             <div class="icon d-flex align-items-center justify-content-center"><span
                                     class="fa fa-quote-left"></div>
                             <div class="text">
-                                <p class="name">Roger Scott</p>
+                                <p class="name"><a href="{{ url('/pengumuman_detail') }}">Roger Scott</a></p>
                                 <p class="mb-4 msg">Far far away, behind the word mountains, far from the countries
                                     Vokalia and Consonantia, there live the blind texts.</p>
                             </div>
@@ -355,12 +355,12 @@ STAINAA | Beranda
         <div class="row mb-3">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
                 <h3 style="margin-bottom: -5px; font-weight: 700;">Agenda</h3>
-                <p style="margin-bottom: 5px;"><a href="#">Agenda Lainnya</a></p>
+                <p style="margin-bottom: 5px;"><a href="{{ url('/list_agenda') }}">Agenda Lainnya</a></p>
                 <hr style="margin-top: 5px; border: 1.5px solid;">
             </div>
         </div>
         <div class="row mb-3">
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="100">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -368,13 +368,13 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h3>
+                        <h3 class="heading mb-3"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="200">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -382,13 +382,13 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a></h3>
+                        <h3 class="heading mb-3"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a></h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -396,14 +396,14 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a mb-3>
+                        <h3 class="heading mb-3"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a mb-3>
                         </h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 d-flex">
+            <div class="col-lg-3 col-md-6 d-flex">
                 <div class="blog-entry justify-content-end" data-aos="fade-up" data-aos-duration="1000"
                     data-aos-delay="300">
                     <a href="blog-single.html" class="block-20 img d-flex align-items-end"
@@ -411,7 +411,7 @@ STAINAA | Beranda
                     </a>
                     <div class="text">
                         <p class="meta"><span>Admin</span> <span>Dec. 01, 2020</span></p>
-                        <h3 class="heading mb-3"><a href="{{ url('/berita_detail') }}">New Home Sales Picked Up in December</a mb-3>
+                        <h3 class="heading mb-3"><a href="{{ url('/agenda_detail') }}">New Home Sales Picked Up in December</a mb-3>
                         </h3>
                         <p>A small river named Duden flows by their place and supplies it with the necessary
                             regelialia.</p>
