@@ -18,13 +18,15 @@ Kemahasiswaan
 
 <section class="ftco-section ftco-about-section ftco-no-pb">
   <div class="container-xl">
-    <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-      <h2 style="margin-bottom: -15px;">Badan Executif Mahasiswa</h2>
-      <hr style="border: 2.5px solid blue;">
+    <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
+      <h3 style="margin-bottom: -5px; font-weight: 700;">Badan Eksekutif Mahasiswa</h3>
+      <hr style="margin-top: 5px; border: 1.5px solid blue;">
     </div>
     <div class="row g-xl-5">
-      <div class="img img-2" style="background-image: url(plugin/images/jj.png);" data-aos="fade-up"
-        data-aos-delay="400" data-aos-duration="1000">
+      <div class="col-md-12">
+        <div class="img img-2" style="background-image: url(plugin/images/jj.png);" data-aos="fade-up"
+          data-aos-delay="400" data-aos-duration="1000">
+        </div>
       </div>
       <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
         <span class="subheading">About Us</span>
@@ -38,8 +40,8 @@ Kemahasiswaan
 <section class="ftco-section ftco-about-section ftco-no-pb">
   <div class="container-xl">
     <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-      <h2 style="margin-bottom: -15px;">UKM</h2>
-      <hr style="border: 2.5px solid blue;">
+      <h3 style="margin-bottom: -5px; font-weight: 700;">UKM</h3>
+      <hr style="margin-top: 5px; border: 1.5px solid blue;">
     </div>
     <div class="container-xl">
       <div class="row">
@@ -114,8 +116,8 @@ Kemahasiswaan
 <section class="ftco-section ftco-about-section ftco-no-pt mt-5">
   <div class="container-xl">
     <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-      <h2 style="margin-bottom: -15px;">informasi Kegiatan Mahasiswa </h2>
-      <hr style="border: 2.5px solid blue;">
+      <h3 style="margin-bottom: -5px; font-weight: 700;">Informasi Kegiatan Mahasiswa</h3>
+      <hr style="margin-top: 5px; border: 1.5px solid blue;">
     </div>
     <div class="container-xl">
       <div class="row">

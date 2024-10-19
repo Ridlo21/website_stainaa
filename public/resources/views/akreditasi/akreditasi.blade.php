@@ -26,8 +26,8 @@ Akreditasi
 <section class="ftco-section ftco-about-section ftco-no-pb">
     <div class="container-xl">
         <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <h2 style="margin-bottom: -15px;">APT</h2>
-            <hr style="border: 2.5px solid blue;">
+            <h3 style="margin-bottom: -5px; font-weight: 700;">APT</h3>
+            <hr style="margin-top: 5px; border: 1.5px solid blue;">
         </div>
         <div class="row g-xl-5">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
@@ -64,8 +64,8 @@ Akreditasi
 <section class="ftco-section ftco-about-section ftco-no-pb">
     <div class="container-xl">
         <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <h2 style="margin-bottom: -15px;">HES</h2>
-            <hr style="border: 2.5px solid blue;">
+            <h3 style="margin-bottom: -5px; font-weight: 700;">HES</h3>
+            <hr style="margin-top: 5px; border: 1.5px solid blue;">
         </div>
         <div class="row g-xl-5">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
@@ -102,8 +102,8 @@ Akreditasi
 <section class="ftco-section ftco-about-section ftco-no-pb mb-4">
     <div class="container-xl">
         <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <h2 style="margin-bottom: -15px;">PAI</h2>
-            <hr style="border: 2.5px solid blue;">
+            <h3 style="margin-bottom: -5px; font-weight: 700;">PAI</h3>
+            <hr style="margin-top: 5px; border: 1.5px solid blue;">
         </div>
         <div class="row g-xl-5">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
