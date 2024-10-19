@@ -10,7 +10,7 @@ Berita
         <div class="row mb-3">
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
                 <h3 style="margin-bottom: -5px; font-weight: 700;">Semua Berita</h3>
-                <hr style="margin-top: 5px; border: 1.5px solid;">
+                <hr style="margin-top: 5px; border: 1.5px solid blue;">
             </div>
         </div>
         <div class="row">

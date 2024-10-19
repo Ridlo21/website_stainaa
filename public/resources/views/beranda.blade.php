@@ -232,7 +232,7 @@ STAINAA | Beranda
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
                 <h3 style="margin-bottom: -5px; font-weight: 700;">Berita Terbaru</h3>
                 <p style="margin-bottom: 5px;"><a href="{{ url('/list_berita') }}">Berita Lainnya</a></p>
-                <hr style="margin-top: 5px; border: 1.5px solid;">
+                <hr style="margin-top: 5px; border: 1.5px solid blue;">
             </div>
         </div>
         <div class="row">
@@ -356,7 +356,7 @@ STAINAA | Beranda
             <div class="col-md-12 heading-section" data-aos="fade-up" data-aos-duration="1000">
                 <h3 style="margin-bottom: -5px; font-weight: 700;">Agenda</h3>
                 <p style="margin-bottom: 5px;"><a href="{{ url('/list_agenda') }}">Agenda Lainnya</a></p>
-                <hr style="margin-top: 5px; border: 1.5px solid;">
+                <hr style="margin-top: 5px; border: 1.5px solid blue;">
             </div>
         </div>
         <div class="row mb-3">
