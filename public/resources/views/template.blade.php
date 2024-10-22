@@ -45,7 +45,7 @@
                     </div>
                     <div class="text pl-3 pl-md-3">
                         <p class="hr"><span>Lokasi Kami</span></p>
-                        <p class="con">Suite 721 New York NY 10016</p>
+                        <p class="con">Jl. KH. Agus Salim No 165 Alasbuluh</p>
                     </div>
                 </div>
 
@@ -54,9 +54,8 @@
                             class="fa fa-connectdevelop"></span>
                     </div>
                     <div class="text pl-3 pl-md-3">
-                        <p class="con"><span>Connect </span> <span>with us</span></p>
-                        <p class="con"><a href="#">Facebook</a> <a href="#">Twitter</a> <a
-                                href="#">Dribbble</a></p>
+                        <p class="con"><span>Hubungi </span> <span>Kami</span></p>
+                        <p class="con"><a href="#">Facebook</a> <a href="#">Instagram</a></p>
                     </div>
                 </div>
             </div>
@@ -177,7 +176,6 @@
                             </script> All rights reserved | This
                             template is made with <i class="fa fa-heart color-danger" aria-hidden="true"></i> by <a
                                 href="https://colorlib.com/" target="_blank" rel="nofollow noopener">Colorlib</a>
-
                     </div>
                 </div>
             </div>
